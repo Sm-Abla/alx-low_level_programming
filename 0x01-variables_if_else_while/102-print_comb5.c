@@ -13,7 +13,7 @@ for (j = 0; j < 100; j++)
 if (i < j)
 {
 putchar((i / 10) + 48);
-putchar((i % 10) + c48);
+putchar((i % 10) + 48);
 putchar(' ');
 putchar((j / 10) + 48);
 putchar((j % 10) + 48);
