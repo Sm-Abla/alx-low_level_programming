@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - prints the capitals alphabets.
  * Return: 0 (Success)
